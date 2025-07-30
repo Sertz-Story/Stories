@@ -2,7 +2,7 @@ Hello,
 If you read this you either are curious or got a mail from me.
 
 Wanna check if it was me? 
-Save this key
+Save this key:
 ```pgp
 -----BEGIN PGP PUBLIC KEY BLOCK-----
 Comment: User-ID:	Sertz <sertz-stories@proton.me>
@@ -24,6 +24,8 @@ EPftZkH2AP9uZFySNfBdjF6XzzfEEK+NmIJf/TtMxSn173c1AaJkDQ==
 =SrAa
 -----END PGP PUBLIC KEY BLOCK-----
 ```
+
+Have a good day
 
 You can see me :)
 
